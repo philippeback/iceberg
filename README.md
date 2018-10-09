@@ -114,6 +114,13 @@ Smalltalk compilerClass recompileAll
 
 *NOTE: you need to update Iceberg in a NEW image, otherwise there will be obsolete repositories around.*
 
+If you are lazy, just use this link http://ws.stfx.eu/P2YYVEUSJRR4 for loading the above code with a one liner:
+
+
+``
+ZnWorkspace openUrl: 'http://ws.stfx.eu/P2YYVEUSJRR4'.
+``
+
 ## 5 minutes tutorial
 *(the 5 minutes tutorial is no longer valid for this version, we are working on an updated version)*
 
